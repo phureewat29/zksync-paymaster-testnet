@@ -1,4 +1,4 @@
-# Custom Paymaster Implementation on zkSync
+# Paymaster on zkSync
 
 ## Installation
 
